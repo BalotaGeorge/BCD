@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\BCDrepresentation\BCDrepresentation\bin\Debug\BCDrepresentation.exe.config
+C:\AnyThingElse\PB VS C#\BCDrepresentation\BCDrepresentation\bin\Debug\BCDrepresentation.exe
+C:\AnyThingElse\PB VS C#\BCDrepresentation\BCDrepresentation\bin\Debug\BCDrepresentation.pdb
+C:\AnyThingElse\PB VS C#\BCDrepresentation\BCDrepresentation\obj\Debug\BCDrepresentation.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\BCDrepresentation\BCDrepresentation\obj\Debug\BCDrepresentation.exe
+C:\AnyThingElse\PB VS C#\BCDrepresentation\BCDrepresentation\obj\Debug\BCDrepresentation.pdb
